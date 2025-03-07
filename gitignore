@@ -1,0 +1,10 @@
+
+# Ignore system files
+.DS_Store
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Ignore Netlify build files
+.netlify/
